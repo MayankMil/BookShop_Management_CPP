@@ -1,7 +1,7 @@
 // +----------------------------------+
 // |          HEADER FILES            |
 // +----------------------------------+
-
+#include<bits/stdc++.h>
 #include <iostream>
 #include <windows.h>
 #include <mysql.h>
